@@ -25,10 +25,10 @@ print(sentence)
 #I can access specific letters
 fLetter = name[0]
 print(fLetter)
-leters1 = name [0:2] #inclusice:exclusive
+letters1 = name [0:2] #inclusice:exclusive
 print(letters1)
-letters2 = name [2:]
-print(letter2)
+letters2 = name [2:len(name)]
+print(letters2)
 letters3 = name[:2]
 print(letters3)
 

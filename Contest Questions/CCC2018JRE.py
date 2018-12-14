@@ -9,7 +9,7 @@ b = int(b)
 c = input("")
 c = int(c)
 
-d = input("")
+
 d = int(d)
 
 #Process
